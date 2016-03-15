@@ -1,0 +1,1 @@
+BIND: sudo docker run --name bind -d --publish 53:53 --publish 53:53/udp --publish 10000:10000 sameersbn/bind:latest

@@ -1,0 +1,12 @@
+$ttl 38400
+wt1.ephec-ti.be.	IN	SOA	ns.wt1.ephec-ti.be. admin.wt1.ephec-ti.be. (
+			1458005545
+			10800
+			3600
+			604800
+			38400 )
+wt1.ephec-ti.be.	IN	NS	ns.wt1.ephec-ti.be.
+ns.wt1.ephec-ti.be.	IN	A	51.254.212.179
+www.wt1.ephec-ti.be.	IN	A	51.254.212.179
+b2b.wt1.ephec-ti.be.	IN	A	51.254.212.179
+intranet.wt1.ephec-ti.be.	IN	A	51.254.212.179
