@@ -1,0 +1,1 @@
+http://blog.zone42.fr/2012/07/14/configurer-postfix-et-dovecot-avec-uniquement-des-fichiers-textes.html
