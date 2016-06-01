@@ -1,3 +1,5 @@
 BIND: sudo docker run --name bind -d --publish 53:53 --publish 53:53/udp --publish 10000:10000 sameersbn/bind:latest
 
 MYSQL: sudo docker run --name mysql -e MYSQL_ROOT_PASSWORD=******* -d mysql/mysql-server:latest
+
+NGINX: sudo docker run --name nginx -p 80:80 -d richarvey/nginx-php-fpm
