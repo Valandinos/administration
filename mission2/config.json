@@ -1,0 +1,24 @@
+{
+  "settings": {
+    "mail.wt1.ephec-ti.be": "mail.wt1.ephec-ti.be"
+  },
+  "domains": {
+    "wt1.ephec-ti.be" :
+      [
+        {
+          "email": "v.eleftheriou@wt1.ephec-ti.be",
+          "password": "{PLAIN}coucou"
+        },
+        {
+          "email": "contact@wt1.ephec-ti.be",
+          "password": "{PLAIN}coucou"
+        },
+        {
+          "email": "b2b@wt1.ephec-ti.be",
+          "password": "{PLAIN}coucou"
+        }
+      ]
+  }
+}
+
+//Config pour le serveur mail du container dockermail, config unique
